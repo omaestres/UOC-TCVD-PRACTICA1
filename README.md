@@ -32,7 +32,7 @@ Agradezco principalmente a la Profesora Laia Subirats Maté quien nos brindó la
 
 ## Inspiración
 
-Este Dataset fue inspirado en el proyecto "Unite These Fuckers" (http://unitethesefuckers.com/), el cual hace un paralelo de las noticias de los principales diarios de habla inglesa, de tendencias liberales y conservadoras.
+Este Dataset fue inspirado en el proyecto "Unite These Fuckers" (http://unitethesefuckers.com/), el cual hace un paralelo de las noticias de los principales diarios de habla inglesa, de tendencias liberales y conservadoras. La importancia de este dataset es que permite comparar si existe algun tipo de sesgo o carga ideologica en la información cuando se abordan las mismas noticias. 
 
 ## Licencia
 ![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
