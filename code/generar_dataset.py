@@ -92,6 +92,9 @@ def scrap_elpais():
 				registro = registro.replace("\n","")
 				dataset.write(registro.encode('utf-8') + "\n")				
 
+# Invocar funciones de Scraping
 scrap_elmundo()
 scrap_elpais()
+
+# Cerrar archivo CSV
 dataset.close()
