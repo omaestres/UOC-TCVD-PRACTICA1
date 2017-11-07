@@ -20,7 +20,7 @@ El conjunto de datos esta compuesto por los siguientes campos:
 * AUTOR: Autor o Agencia de noticias
 * DIARIO: Es el diario de donde se recopiló la noticia (El Mundo o El País)
 
-Los datos son obtenidos mediante un script en Python, usando la tecnica de Web Scraping en los portales Web de noticias. El script extrae el codigo HTML, identifica los datos relevantes, hace limpieza, seleccion de los datos y finalmente almacena toda la informacion en el archivo dataset.csv. El formato del archivo dataset.csv separa los valores de los campos por puntos y comas (;).
+Los datos son obtenidos mediante un script en Python, usando la tecnica de Web Scraping en los portales Web de noticias. Los datos fueron recopialdos en el periodo de tiempo comprendido entre el 6 y 7 de Noviembre de 2017. El script extrae el codigo HTML, identifica los datos relevantes, hace limpieza, seleccion de los datos y finalmente almacena toda la informacion en el archivo dataset.csv. El formato del archivo dataset.csv separa los valores de los campos por puntos y comas (;).
 
 Los principales modulos de Python usados en este proyecto para hacer Web scraping fueron:
 
@@ -38,3 +38,13 @@ Este Dataset fue inspirado en el proyecto "Unite These Fuckers" (http://unitethe
 ![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
 El Dataset y el codigo de este proyecto esta publicado con licencia Creative Commons CC BY-NC-SA 4.0, la cual debe dar credito a las editoriales de EL MUNDO y EL PAIS y no se puede dar uso comercial de este material. Se ha elegido este licenciamiento para permitir el acceso al publico y a la vez mantener compatibilidad de terminos legales con las fuentes de los datos.
+
+## Equipo
+
+omaestres - Oscar Jovanni Maestre Sanmiguel
+Desarrollador principal del proyecto
+
+## Directorios y archivos
+
+dataset.csv              ->  Contiene el fichero en formato CSV separado por puntos y comas ";"
+code/generar_dataset.py  ->  Ruta del Script de python con el codigo fuente que genera el dataset
