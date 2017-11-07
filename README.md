@@ -20,7 +20,7 @@ El conjunto de datos esta compuesto por los siguientes campos:
 * AUTOR: Autor o Agencia de noticias
 * DIARIO: Es el diario de donde se recopiló la noticia (El Mundo o El País)
 
-Los datos son obtenidos mediante un script en Python, usando la tecnica de Web Scraping en los portales Web de noticias. Los datos fueron recopialdos en el periodo de tiempo comprendido entre el 6 y 7 de Noviembre de 2017. El script extrae el codigo HTML, identifica los datos relevantes, hace limpieza, seleccion de los datos y finalmente almacena toda la informacion en el archivo dataset.csv. El formato del archivo dataset.csv separa los valores de los campos por puntos y comas (;).
+Los datos son obtenidos mediante un script en Python, usando la tecnica de Web Scraping en los portales Web de noticias. Los datos fueron recopilados en el periodo de tiempo comprendido entre el 6 y 7 de Noviembre de 2017. El script extrae el codigo HTML, identifica los datos relevantes, hace limpieza, seleccion de los datos y finalmente almacena toda la informacion en el archivo dataset.csv. El formato del archivo dataset.csv separa los valores de los campos por puntos y comas (;).
 
 Los principales modulos de Python usados en este proyecto para hacer Web scraping fueron:
 
