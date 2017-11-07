@@ -36,4 +36,5 @@ Este Dataset fue inspirado en el proyecto "Unite These Fuckers" (http://unitethe
 
 ## Licencia
 ![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png)
+
 El Dataset y el codigo de este proyecto esta publicado con licencia Creative Commons CC BY-NC-SA 4.0, la cual debe dar credito a las editoriales de EL MUNDO y EL PAIS y no se puede dar uso comercial de este material. Se ha elegido este licenciamiento para permitir el acceso al publico y a la vez mantener compatibilidad de terminos legales con las fuentes de los datos.
