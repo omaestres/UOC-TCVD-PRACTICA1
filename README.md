@@ -8,7 +8,7 @@
 
 ## Contexto
 
-Este Dataset fue obtenido desde los portales web de los dos principales diarios españoles de información general según la EGM (Encuesta General de Medios): El Mundo (http://www.elmundo.es) y El País (https://elpais.com). El principal objetivo es poner a disposición los datos minados de ambos portales, para que los ciudadanos pueda contrastar la información publicada en los titulares de noticias de cada diario y evidenciar sus tendencias liberales o conservadoras.
+Este Dataset fue obtenido desde los portales web de los dos principales diarios españoles de información general según la EGM (Estudio General de Medios): El Mundo (http://www.elmundo.es) y El País (https://elpais.com). El principal objetivo es poner a disposición los datos minados de ambos portales, para que los ciudadanos pueda contrastar la información publicada en los titulares de noticias de cada diario y evidenciar sus tendencias liberales o conservadoras.
 
 ## Contenido
 
@@ -35,6 +35,6 @@ Agradezco principalmente a la Profesora Laia Subirats Maté quien nos brindó la
 Este Dataset fue inspirado en el proyecto "Unite These Fuckers" (http://unitethesefuckers.com/), el cual hace un paralelo de las noticias de los principales diarios de habla inglesa, de tendencias liberales y conservadoras.
 
 ## Licencia
-![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-nd.png)
+![](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
 El Dataset y el codigo de este proyecto esta publicado con licencia Creative Commons CC BY-NC-SA 4.0, la cual debe dar credito a las editoriales de EL MUNDO y EL PAIS y no se puede dar uso comercial de este material. Se ha elegido este licenciamiento para permitir el acceso al publico y a la vez mantener compatibilidad de terminos legales con las fuentes de los datos.
