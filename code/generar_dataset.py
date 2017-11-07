@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+# Autor: Oscar Maestre Sanmiguel
 # Se cargan las librerias
 import bs4
 import html5lib
@@ -30,6 +30,8 @@ def scrap_elmundo():
 	print len(salida)
 	for titular in salida:
 		try:
+			autor=""
+			fecha=""			
 			h3 = titular.find("h3", attrs = titulo)
 			a=h3.find("a", href=True)
 			fecha = titular.find("time").text
@@ -62,6 +64,8 @@ def scrap_elpais():
 	print len(salida2)
 	for titular in salida2:
 		try:
+			autor=""
+			fecha=""
 			h2 = titular.find("h2", attrs = titulo2)			
 			a=h2.find("a", href=True)			
 			fecha = titular.find("meta", attrs={"itemprop":"datePublished"})["content"]
