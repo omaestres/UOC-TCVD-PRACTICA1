@@ -42,9 +42,11 @@ El Dataset y el codigo de este proyecto esta publicado con licencia Creative Com
 ## Equipo
 
 omaestres - Oscar Jovanni Maestre Sanmiguel
+
 Desarrollador principal del proyecto
 
 ## Directorios y archivos
 
 dataset.csv              ->  Contiene el fichero en formato CSV separado por puntos y comas ";"
+
 code/generar_dataset.py  ->  Ruta del Script de python con el codigo fuente que genera el dataset
