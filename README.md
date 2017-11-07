@@ -8,7 +8,7 @@
 
 ## Contexto
 
-Este Dataset fue obtenido desde los portales web de los dos principales diarios españoles de información general según la EGM (Estudio General de Medios): El Mundo (http://www.elmundo.es) y El País (https://elpais.com). El principal objetivo es poner a disposición los datos minados de ambos portales, para que los ciudadanos pueda contrastar la información publicada en los titulares de noticias de cada diario y evidenciar sus tendencias liberales o conservadoras.
+Este Dataset fue obtenido desde los portales web de los dos principales diarios españoles de información general según la EGM (Estudio General de Medios http://www.aimc.es/spip.php?action=acceder_document&arg=3317&cle=853a1446e9a6458393b8b62cd0f45f8f62e17262&file=pdf%2Fresumegm117.pdf): El Mundo (http://www.elmundo.es) y El País (https://elpais.com). El principal objetivo es poner a disposición los datos minados de ambos portales, para que los ciudadanos pueda contrastar la información publicada en los titulares de noticias de cada diario y evidenciar sus tendencias liberales o conservadoras.
 
 ## Contenido
 
