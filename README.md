@@ -19,3 +19,13 @@ El conjunto de datos esta compuesto por los siguientes campos:
 * FECHA: Fecha de publicacion de la noticia
 * AUTOR: Autor o Agencia de noticias
 * DIARIO: Es el diario de donde se recopiló la noticia (El Mundo o El País)
+
+## Agradecimientos
+
+## Inspiración
+
+Este Dataset fue inspirado en el proyecto "Unite These Fuckers" (http://unitethesefuckers.com/), el cual hace un paralelo de las noticias de los principales diarios de habla inglesa, de tendencias liberales y conservadoras.
+
+## Licencia
+
+El Dataset y el codigo de este proyecto esta publicado con licencia Creative Commons CC0: Public Domain License, la cual es de dominio publico. Se ha elegido este licenciamiento para permitir el acceso a sin restriciones, también por las ventajas de copiar, modificar, distribuir la obra y hacer comunicación pública de ella.
