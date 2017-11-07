@@ -47,6 +47,6 @@ Desarrollador principal del proyecto
 
 ## Directorios y archivos
 
-dataset.csv              ->  Contiene el fichero en formato CSV separado por puntos y comas ";"
+dataset.csv              ->  Contiene el fichero del conjunto de datos en formato CSV separado por puntos y comas ";"
 
-code/generar_dataset.py  ->  Ruta del Script de python con el codigo fuente que genera el dataset
+code/generar_dataset.py  ->  Ruta del Script escrito en Python con el codigo fuente que genera el dataset
